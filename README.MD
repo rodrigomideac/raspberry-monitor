@@ -20,7 +20,8 @@ nohup ./target/release/raspberry-monitor &
 ```
 
 ## Next improvements
-
+- Add unit tests
+- Handle file-system errors
 - Set output file-name via CLI
 - Set sampling rate via CLI
 - Add other measurement types
